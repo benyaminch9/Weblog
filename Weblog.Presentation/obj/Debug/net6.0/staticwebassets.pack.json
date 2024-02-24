@@ -1,0 +1,1489 @@
+{
+  "Files": [
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Weblog.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Weblog.Presentation.bundle.scp.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\site.css",
+      "PackagePath": "staticwebassets\\assets\\css\\site.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\css\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\IRANYekanX-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRANYekanX-Light.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\IRANYekanX-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRANYekanX-Light.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot@"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot@"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot@"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.eot@"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\DanaFaNum-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\DanaFaNum-Bold.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\Estedad.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\Estedad.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\IRANSansXFaNum-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\IRANSansXFaNum-Medium.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\Vazirmatn-FD-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\Vazirmatn-FD-Light.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\iransansdn.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\iransansdn.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\iransansdn.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\iransansdn.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\fonts\\font-package\\iransansdn.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-package\\iransansdn.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\bg\\video_post_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\video_post_bg.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_popular_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_popular_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_popular_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_popular_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_popular_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_popular_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_popular_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_popular_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\author_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\bd_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bd_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\bd_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bd_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_details01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_details01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_details02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_details02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_details03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_details03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\blog_rc_post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_rc_post.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_banner_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_banner_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_banner_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_banner_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_banner_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_banner_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_latest_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_latest_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_latest_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_latest_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_latest_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_latest_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_latest_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_latest_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_mining_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_mining_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_recent_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_recent_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_recent_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_recent_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_recent_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_recent_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_recent_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_recent_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_recent_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_recent_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_trending_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_trending_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_trending_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_trending_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_trending_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_trending_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_trending_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_trending_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_trending_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_trending_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_weekly_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_weekly_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_weekly_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_weekly_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_weekly_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_weekly_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\cr_weekly_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cr_weekly_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\editor_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\editor_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\editor_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\editor_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\editor_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\editor_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\featured_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\featured_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\featured_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\featured_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\featured_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\featured_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\featured_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\featured_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_banner_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_banner_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_banner_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_banner_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_hot_post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_hot_post.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_popular_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_popular_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_popular_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_popular_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_popular_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_popular_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_popular_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_popular_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\g_popular_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\g_popular_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\hr_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\hr_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\latest_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\latest_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\latest_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_banner_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_banner_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_banner_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_banner_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_banner_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_banner_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_editor_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_editor_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_editor_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_editor_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_editor_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_editor_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\nw_editor_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\nw_editor_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\politics_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\politics_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\popular_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\popular_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\popular_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\popular_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\popular_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\rc_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\rc_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\rc_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\rc_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\rc_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\rc_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\rc_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\rc_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\rc_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\rc_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recent_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recent_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recent_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recent_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recipe_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recipe_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recipe_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recipe_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recipe_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recipe_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\recipe_img04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recipe_img04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\so_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\so_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\sports_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sports_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\sports_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sports_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\sports_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sports_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\sports_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sports_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\sports_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sports_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\spotlight_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\spotlight_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\spotlight_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\spotlight_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\spotlight_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\spotlight_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\spotlight_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\spotlight_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\stories_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\stories_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\stories_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\stories_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\stories_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\stories_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\stories_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\stories_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_banner_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_banner_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_banner_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_banner_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_banner_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_banner_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_banner_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_banner_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_overlay_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_overlay_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_overlay_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_overlay_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_overlay_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_overlay_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_overlay_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_overlay_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_popular_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_popular_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_weekly_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_weekly_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_weekly_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_weekly_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_weekly_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_weekly_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\t_weekly_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\t_weekly_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\today_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\today_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\today_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\today_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\top_news_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\top_news_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\top_news_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\top_news_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\top_news_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\top_news_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\top_news_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\top_news_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_banner_post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_banner_post.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_editor_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_editor_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_editor_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_editor_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_editor_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_editor_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_hot_post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_hot_post.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_latest_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_latest_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_latest_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_latest_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_latest_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_latest_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_overlay_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_overlay_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_overlay_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_overlay_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_overlay_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_overlay_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_overlay_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_overlay_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\tr_weekly_post06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\tr_weekly_post06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\trending_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\trending_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\trending_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\trending_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\trending_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\trending_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\trending_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\trending_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\video_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\video_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\video_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\video_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\video_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\video_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\video_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\video_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\weekly_post01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\weekly_post01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\weekly_post02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\weekly_post02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\weekly_post03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\weekly_post03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\blog\\weekly_post04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\weekly_post04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon01.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon01.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon02.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon02.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon03.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon03.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon04.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon04.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon05.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon05.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon06.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon06.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\coin_icon07.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\coin_icon07.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\contact_icon01.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\contact_icon01.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\contact_icon02.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\contact_icon02.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\contact_icon03.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\contact_icon03.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\icon\\trending_icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\trending_icon.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\about_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\about_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\about_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\about_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\about_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\about_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\about_shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\about_shape.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement07.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement08.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement09.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement10.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement11.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement12.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement13.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement14.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\advertisement15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\advertisement15.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\author_img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\author_img.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\avatar.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\avatar_img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\avatar_img.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\avatar_img02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\avatar_img02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\avatar_shape01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\avatar_shape01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\avatar_shape02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\avatar_shape02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img03.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img04.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img05.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_img06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_img06.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_shape01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_shape01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\categories_shape02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\categories_shape02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\comment01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\comment01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\comment02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\comment02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\contact_img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\contact_img.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\footer_shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\footer_shape.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\footer_shape02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\footer_shape02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img03.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img04.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img05.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\g_categories_img06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\g_categories_img06.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\newsletter_shape01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\newsletter_shape01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\newsletter_shape02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\newsletter_shape02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\sidebar_img06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\sidebar_img06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\t_cat_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\t_cat_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\t_cat_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\t_cat_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\t_cat_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\t_cat_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\t_cat_img04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\t_cat_img04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\team_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\team_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\team_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\team_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\team_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\team_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\team_img04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\team_img04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\trending_shape01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\trending_shape01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\images\\trending_shape02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\images\\trending_shape02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img01.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img02.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img03.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img04.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img05.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img06.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img07.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\instagram\\insta_img08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta_img08.jpg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\img\\logo\\w_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\w_logo.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Weblog\\Weblog.Presentation\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Weblog.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Weblog.Presentation.props",
+      "PackagePath": "build\\Weblog.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Weblog.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Weblog.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Weblog.Presentation.props",
+      "PackagePath": "buildTransitive\\Weblog.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

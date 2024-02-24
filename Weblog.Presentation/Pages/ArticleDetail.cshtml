@@ -1,0 +1,350 @@
+﻿@page "{Id:int}"
+@model ArticleDetailsModel
+@{
+    ViewData["Title"] = @Model.Article.Title;
+}
+
+<!-- breadcrumb-area -->
+<div class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb-content">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">خانه</a></li>
+                            <li class="breadcrumb-item" aria-current="page"><a href="blog.html">وبلاگ</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">@Model.Article.Title</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb-area-end -->
+<!-- blog-details-area -->
+<section class="blog-details-area pt-60 pb-60">
+    <div class="container">
+        <div class="author-inner-wrap">
+            <div class="row justify-content-center">
+                <div class="col-70">
+                    <div class="blog-details-wrap">
+                        <div class="blog-details-content">
+                            <div class="blog-details-content-top">
+                                <a href="blog.html" class="post-tag">@Model.Article.ArticleCategory</a>
+                                <h2 class="title">@Model.Article.Title</h2>
+                                <div class="bd-content-inner">
+                                    <div class="blog-post-meta">
+                                        <ul class="list-wrap">
+                                            <li><i class="flaticon-user"></i>توسط<a href="author.html">مدیر</a></li>
+                                            <li><i class="flaticon-calendar"></i>4 شهریور 1402</li>
+                                            <li><i class="flaticon-chat"></i><a href="blog-details.html">05 کامنت ها</a></li>
+                                            <li><i class="flaticon-history"></i>20 دقیقه</li>
+                                        </ul>
+                                    </div>
+                                    <div class="blog-details-social">
+                                        <ul class="list-wrap">
+                                            <li><a href="blog-details.html#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="blog-details.html#"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="blog-details.html#"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="blog-details.html#"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="blog-details-thumb">
+                                <img src="~/@Model.Article.Picture" alt="@Model.Article.PictureAlt" title="@Model.Article.PictureTitle">
+                            </div>
+                            <p>@Model.Article.ShortDescription </p>
+                            <p>@Model.Article.Body</p>
+                           
+                            <div class="blog-details-bottom">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-6">
+                                        <div class="post-tags">
+                                            <h5 class="title">برچسب ها:</h5>
+                                            <ul class="list-wrap">
+                                                <li><a href="blog.html">طراحی هنری</a></li>
+                                                <li><a href="blog.html">ویدئو</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="post-share">
+                                            <h5 class="title">اشتراک گذاری:</h5>
+                                            <ul class="list-wrap">
+                                                <li><a href="blog-details.html#"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="blog-details.html#"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a href="blog-details.html#"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a href="blog-details.html#"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a href="blog-details.html#"><i class="fab fa-youtube"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-avatar-wrap mb-50">
+                            <div class="blog-avatar-img">
+                                <a href="blog-details.html#"><img src="assets/img/images/avatar.png" alt="img"></a>
+                            </div>
+                            <div class="blog-avatar-info">
+                                <span class="designation">نویسنده</span>
+                                <h4 class="name"><a href="author.html">کامرون ویلیامسون</a></h4>
+                                <p>متضاد اعتماد شما تا حد زیادی مشتری های ما مجرای Dentace رادنتاس می کنند زیرا زانو در حال حاضر بهترین منطقه در انتظار واقعاً هستیم.</p>
+                            </div>
+                        </div>
+                        <div class="pev-next-post-wrap">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="post-item">
+                                        <div class="thumb">
+                                            <a href="blog-details.html"><img src="assets/img/blog/bd_post01.jpg" alt=""></a>
+                                        </div>
+                                        <div class="content">
+                                            <span>پست قبلی</span>
+                                            <h5 class="post-title"><a href="blog-details.html">ممکن است با شکوه باشد <br>نسخه تصاویر پس زمینه</a></h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="post-item next-post">
+                                        <div class="thumb">
+                                            <a href="blog-details.html"><img src="assets/img/blog/bd_post02.jpg" alt=""></a>
+                                        </div>
+                                        <div class="content">
+                                            <span>پست بعدی</span>
+                                            <h5 class="post-title"><a href="blog-details.html">وام بهتر را بنویسید <br> سریع ترین تابع های جاوا اسکریپت</a></h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="comments-wrap">
+                            <h3 class="comments-wrap-title">02 نظرات</h3>
+                            <div class="latest-comments">
+                                <ul class="list-wrap">
+                                    <li>
+                                        <div class="comments-box">
+                                            <div class="comments-avatar">
+                                                <img src="assets/img/images/comment01.png" alt="img">
+                                            </div>
+                                            <div class="comments-text">
+                                                <div class="avatar-name">
+                                                    <h6 class="name">عباس ایرانی</h6>
+                                                    <span class="date">4 شهریور 1402</span>
+                                                </div>
+                                                <p>متضاد اعتماد شما را به شدت مشتری ما مجرای Dentace رادنتاس می کند زیرا می دانیم که ما بهترین منطقه در انتظار واقعاً هستیم.</p>
+                                                <a href="blog-details.html#" class="reply-btn">پاسخ</a>
+                                            </div>
+                                        </div>
+                                        <ul class="children">
+                                            <li>
+                                                <div class="comments-box">
+                                                    <div class="comments-avatar">
+                                                        <img src="assets/img/images/comment02.png" alt="img">
+                                                    </div>
+                                                    <div class="comments-text">
+                                                        <div class="avatar-name">
+                                                            <h6 class="name">جمید ایرانی</h6>
+                                                            <span class="date">4 شهریور 1402</span>
+                                                        </div>
+                                                        <p>متضاد اعتماد شما را به شدت مشتری ما مجرای Dentace رادنتاس می کند زیرا می دانیم که ما بهترین منطقه در انتظار واقعاً هستیم.</p>
+                                                        <a href="blog-details.html#" class="reply-btn">پاسخ</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="comment-respond">
+                            <h3 class="comment-reply-title">ارسال نظر</h3>
+                            <form action="blog-details.html#" class="comment-form">
+                                <p class="comment-notes">
+                                    آدرس ایمیل شما منتشر نخواهد شد.زمینه های مورد نیاز مشخص شده اند>
+                                    <div class="form-grp">
+                                        <textarea name="comment" placeholder="اظهار نظر"></textarea>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-grp">
+                                                <input type="text" placeholder="نام">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-grp">
+                                                <input type="email" placeholder="پست الکترونیک">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-grp">
+                                                <input type="url" placeholder="سایت اینترنتی">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-grp checkbox-grp">
+                                        <input type="checkbox" id="checkbox_two">
+                                        <label for="checkbox_two">برای دفعه بعد که من نظر می دهم نام ، ایمیل و وب سایت من را ذخیره کنید.</label>
+                                    </div>
+                                    <button type="submit" class="btn btn-two">ارسال نظر</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-30">
+                    <div class="sidebar-wrap">
+                        <div class="sidebar-widget">
+                            <div class="sidebar-search">
+                                <form action="blog-details.html#">
+                                    <input type="text" placeholder="جستجو کردن . . .">
+                                    <button type="submit"><i class="flaticon-search"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="sidebar-widget sidebar-widget-two">
+                            <div class="widget-title mb-30">
+                                <h6 class="title">دسته های داغ</h6>
+                                <div class="section-title-line"></div>
+                            </div>
+                            <div class="sidebar-categories">
+                                <ul class="list-wrap">
+                                    <li>
+                                        <a href="blog.html" data-background="assets/img/images/t_cat_img01.jpg">
+                                            <span class="post-tag post-tag-three">فن آوری</span>
+                                            <span class="right-arrow">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                </svg>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="blog.html" data-background="assets/img/images/t_cat_img02.jpg">
+                                            <span class="post-tag post-tag-three">سیار</span>
+                                            <span class="right-arrow">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                </svg>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="blog.html" data-background="assets/img/images/t_cat_img03.jpg">
+                                            <span class="post-tag post-tag-three">اسباب</span>
+                                            <span class="right-arrow">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                </svg>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="blog.html" data-background="assets/img/images/t_cat_img04.jpg">
+                                            <span class="post-tag post-tag-three">اخبار</span>
+                                            <span class="right-arrow">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none">
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                    <path d="M1.72308 16L0 14.2769L11.8154 2.46154H1.23077V0H16V14.7692H13.5385V4.18462L1.72308 16Z" fill="currentcolor"></path>
+                                                </svg>
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar-widget sidebar-widget-two">
+                            <div class="widget-title mb-25">
+                                <h2 class="title">مشترک و پیروان</h2>
+                                <div class="section-title-line"></div>
+                            </div>
+                            <div class="sidebar-social-wrap">
+                                <ul class="list-wrap">
+                                    <li><a href="blog-details.html#"><i class="fab fa-facebook-f"></i>فیس بوک</a></li>
+                                    <li><a href="blog-details.html#"><i class="fab fa-twitter"></i>توییتر</a></li>
+                                    <li><a href="blog-details.html#"><i class="fab fa-instagram"></i>اینستاگرام</a></li>
+                                    <li><a href="blog-details.html#"><i class="fab fa-youtube"></i>یوتیوب</a></li>
+                                    <li><a href="blog-details.html#"><i class="fab fa-linkedin-in"></i>وابسته لینکدین</a></li>
+                                    <li><a href="blog-details.html#"><i class="fab fa-pinterest-p"></i>پانترست</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar-widget sidebar-widget-two">
+                            <div class="widget-title mb-30">
+                                <h6 class="title">اخبار اخیر</h6>
+                                <div class="section-title-line"></div>
+                            </div>
+                            <div class="hot-post-wrap">
+                                <div class="hot-post-item">
+                                    <div class="hot-post-thumb">
+                                        <a href="blog-details.html"><img src="assets/img/blog/blog_rc_post.jpg" alt=""></a>
+                                    </div>
+                                    <div class="hot-post-content">
+                                        <a href="blog.html" class="post-tag">ماجرا</a>
+                                        <h4 class="post-title"><a href="blog-details.html">الهام بخش طراحی وب و ویترین UX</a></h4>
+                                        <div class="blog-post-meta">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-calendar"></i>4 شهریور 1402</li>
+                                                <li><i class="flaticon-history"></i>20 دقیقه</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hot-post-item">
+                                    <div class="hot-post-content">
+                                        <a href="blog.html" class="post-tag">فرهنگ</a>
+                                        <h4 class="post-title"><a href="blog-details.html">گرفتن بین المللی (i18n) درست با ریمیکس و</a></h4>
+                                        <div class="blog-post-meta">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-calendar"></i>4 شهریور 1402</li>
+                                                <li><i class="flaticon-history"></i>20 دقیقه</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hot-post-item">
+                                    <div class="hot-post-content">
+                                        <a href="blog.html" class="post-tag">مسافرت رفتن</a>
+                                        <h4 class="post-title"><a href="blog-details.html">یک گام به گام-راهنمای مرحله ای برای ساخت چرخ فلک های قابل دسترسی</a></h4>
+                                        <div class="blog-post-meta">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-calendar"></i>4 شهریور 1402</li>
+                                                <li><i class="flaticon-history"></i>20 دقیقه</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sidebar-widget sidebar-widget-two">
+                            <div class="sidebar-newsletter">
+                                <div class="icon"><i class="flaticon-envelope"></i></div>
+                                <h4 class="title">خبرنامه</h4>
+                                <p>برای پیگیری تمام داستانهای برتر از وبلاگ ها دریافت کنید.</p>
+                                <div class="sidebar-newsletter-form-two">
+                                    <form action="blog-details.html#">
+                                        <div class="form-grp">
+                                            <input type="text" placeholder="ایمیل خود را وارد کنید">
+                                            <button type="submit" class="btn">هم اکنون مشترک شوید</button>
+                                        </div>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id="checkbox">
+                                            <label for="checkbox">من با شرایط و قوانین موافق هستم</label>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- blog-details-area-end -->
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi aliquam aspernatur eos! Porro, eaque incidunt. Labore earum veritatis quaerat voluptate doloremque blanditiis fugit nemo! Alias, inventore dolorem. Quod veniam odio voluptas error ea at similique aperiam ad tempore nemo iusto voluptate rem atque laboriosam officiis, impedit nihil optio eos nam.

@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Weblog.Presentation
+build_property.RootNamespace = Weblog.Presentation
+build_property.ProjectDir = W:\برنامه نویسی\پروژه ها\Project\Weblog\Weblog.Presentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\برنامه نویسی\پروژه ها\Project\Weblog\Weblog.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleCategoryManagment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlQ2F0ZWdvcnlNYW5hZ21lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleCategoryManagment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlQ2F0ZWdvcnlNYW5hZ21lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleCategoryManagment/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlQ2F0ZWdvcnlNYW5hZ21lbnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleManagmrnt/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdtcm50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleManagmrnt/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdtcm50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/ArticleManagmrnt/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdtcm50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Areas/Administrator/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/ArticleDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Weblog/Weblog.Presentation/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-urpbq63bru

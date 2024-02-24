@@ -1,0 +1,66 @@
+﻿@page
+@using Weblog.Domain.Convertors
+@model Weblog.Presentation.Areas.Administrator.Pages.ArticleManagmrnt.ListModel
+@{
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">مدیریت مقالات</h3>
+        <div class="float-right">
+            <a class="btn btn-success" asp-page="./Create" asp-area="Administrator">اضافه کردن</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>عنوان</th>
+                    <th>دسته مقاله</th>
+                    <th>وضعیت</th>
+                    <th>تاریخ</th>
+                    <th>عملیات</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var article in Model.Articles)
+                {
+                    <tr>
+                        <td>@article.Id</td>
+                        <td>@article.Title</td>
+                        <td>@article.ArticleCategory</td>
+                        <td>
+                            @if (article.IsDeleted)
+                            {
+                                <i class="fa fa-close fa-2x text-danger">غیر فعال</i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-check fa-2x text-success">فعال</i>
+                            }
+                        </td>
+                        <td>@article.CreationDate</td>
+                        <td>
+                            <a class="btn btn-warning float-left mr-3" asp-page="./Edit" asp-route-id="@article.Id">ویرایش</a>
+                            @if (article.IsDeleted)
+                            {
+                                <form method="post" asp-page-handler="Active" class="float-left" style="float:left; margin-right:10px">
+                                    <button class="btn btn-success">فعال کردن</button>
+                                    <input type="hidden" name="id" value="@article.Id" />
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page-handler="DeActive" class="float-left" style="float:left; margin-right:10px">
+                                    <button class="btn btn-danger">غیر فعال</button>
+                                    <input type="hidden" name="id" value="@article.Id" />
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
